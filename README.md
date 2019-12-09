@@ -1,2 +1,2 @@
-# getShitDoneApp
-Contains the WebApp Code
+# getShitDoneExtension
+Contains the Extension Code
